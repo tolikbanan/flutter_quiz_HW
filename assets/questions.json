@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Какой язык программирования используется во Flutter?",
+    "options": ["Java", "Kotlin", "Dart", "Swift"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Что из этого не является виджетом во Flutter?",
+    "options": ["Container", "Text", "Scaffold", "Function"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Какой архитектурный паттерн использует данный проект?",
+    "options": ["MVC", "MVP", "MVVM", "Clean Architecture"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Какой класс используется для уведомления слушателей в MVVM Flutter?",
+    "options": ["StateNotifier", "ChangeNotifier", "Bloc", "Stream"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Как называется файл, где указываются все зависимости Flutter проекта?",
+    "options": ["package.json", "build.gradle", "pubspec.yaml", "flutter.xml"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Для чего используется пакет http во Flutter?",
+    "options": ["Для создания UI", "Для сетевых запросов", "Для базы данных", "Для анимаций"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Что такое StatelessWidget?",
+    "options": ["Виджет без состояния", "Виджет с состоянием", "Корневой виджет", "Виджет для анимации"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "С помощью чего можно сделать переход на другой экран?",
+    "options": ["Route.go()", "Navigator.push()", "Screen.next()", "App.navigate()"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Где следует хранить локальные данные приложения, такие как картинки и json файлы?",
+    "options": ["В папке lib", "В папке android", "В папке assets", "В папке test"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Какая функция является точкой входа во Flutter приложение?",
+    "options": ["startApp()", "init()", "main()", "run()"],
+    "correctAnswerIndex": 2
+  }
+]
